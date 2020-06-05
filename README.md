@@ -7,6 +7,6 @@ The length of a campaign does *not* contribute to its success or failure. The Me
 
 ![](https://github.com/MarjorieS81/Kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 
+Also, the goal affects the outcome. Campaigns with higher goals were less likely to succeed than those with smaller goals.
 
-
-![](https://github.com/MarjorieS81/Kickstarter-analysis/blob/master/Outcomes%20Based%20On%20Goals.png)
+![](https://github.com/MarjorieS81/Kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Goal.png)
